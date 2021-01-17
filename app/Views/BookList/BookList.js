@@ -11,7 +11,7 @@ const BookList = () => (
             </View>
         </View>
         <View style={{ alignItems: "center", height: "100%" }}>
-            <View style={{ height: "100%", position: "absolute", borderColor: "#eee", borderWidth: 1, top: -30, width: "99.9%", backgroundColor: "#FFF", elevation: 5, borderTopLeftRadius: 30, borderTopRightRadius: 30 }}>
+            <View style={{ height: "100%", position: "absolute", borderColor: "#eee", borderWidth: 1, top: -30, width: "99.9%", backgroundColor: "#f7f7f7", elevation: 5, borderTopLeftRadius: 30, borderTopRightRadius: 30 }}>
                 <View style={{ padding: 10 }}>
                     <Text style={{ textAlign: "center", fontSize: 16, fontWeight: 'bold', marginBottom: 20 }}>
                         BOOK LIST

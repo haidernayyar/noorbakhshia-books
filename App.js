@@ -18,7 +18,7 @@ import BookList from "./app/Views/BookList/BookList";
 const App = () => {
   return (
     <NavigationContainer>
-      <StatusBar barStyle="dark-content" backgroundColor="#0295c1"/>
+      <StatusBar barStyle="dark-content" backgroundColor="#FC6600"/>
       <SafeAreaView>
         <BookList/>
       </SafeAreaView>
